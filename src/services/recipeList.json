@@ -1,0 +1,36 @@
+{
+  "meals": [
+    {
+      "idMeal": "52772",
+      "strMeal": "Teriyaki Chicken Casserole",
+      "strCategory": "Chicken",
+      "strArea": "Japanese",
+      "strInstructions": "Preheat oven to 350°F...",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/wvpsxx1468256321.jpg",
+      "strIngredient1": "Chicken",
+      "strIngredient2": "Teriyaki Sauce",
+      "strIngredient3": "Rice",
+      "strIngredient4": "Broccoli",
+      "strIngredient5": "Carrots",
+      "strIngredient6": "Peas"
+    },
+    {
+      "idMeal": "52844",
+      "strMeal": "Lasagna",
+      "strCategory": "Pasta",
+      "strArea": "Italian",
+      "strInstructions": "Cook pasta according to package...",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/wtsvxx1511296896.jpg",
+      "strIngredient1": "Pasta Sheets",
+      "strIngredient2": "Tomato Sauce",
+      "strIngredient3": "Ground Beef",
+      "strIngredient4": "Ricotta Cheese",
+      "strIngredient5": "Mozzarella",
+      "strIngredient6": "Parmesan"
+    }
+  ],
+
+  "categories": ["Chicken", "Beef", "Seafood", "Vegan", "Dessert", "Salad"],
+  "areas": ["American", "Italian", "Mexican", "Japanese", "French"],
+  "ingredients": ["Chicken", "Beef", "Fish", "Egg", "Tomato", "Rice", "Garlic"]
+}
