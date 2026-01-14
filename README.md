@@ -3,7 +3,7 @@
 It is a web application that uses the OpenAI API to suggest meals based on user preferences and to organize weekly recipes.
 The project is for learning purposes only.
 
-##🎯 Goal
+## 🎯 Goal
 
 Practice working with APIs
 
@@ -13,7 +13,7 @@ Improve React component structure
 
 Practice building a simple user interface
 
-##🛠️ Technologies
+## 🛠️ Technologies
 
 React
 
@@ -23,7 +23,7 @@ JavaScript
 
 OpenAI API
 
-##📱 Features
+## 📱 Features
 
 Meal suggestions based on user preferences
 
